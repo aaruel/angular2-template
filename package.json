@@ -1,5 +1,5 @@
 {
-  "name": "nuricks-frontend",
+  "name": "frontend-application",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "author": "aaruel",
   "license": "MIT",
-  "description": "Frontend for Nu-Ricks website",
+  "description": "Frontend Application",
   "dependencies": {
     "@angular/common": "~2.4.6",
     "@angular/compiler": "~2.4.6",
