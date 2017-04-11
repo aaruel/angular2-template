@@ -4,7 +4,6 @@ import { Component } from '@angular/core';
 // Custom imports
 import { BackendService } from "../backend/backend.service";
 import { PersistentService } from "../main.global";
-import { Cookie } from "ng2-cookies/ng2-cookies";
 
 declare var $: any;
 
